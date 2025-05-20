@@ -9,6 +9,5 @@ LiL-GeeK/LiL-GeeK is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hello World.
+Hello New World.
 Lil-GeeK here. A newbie in technology world, wanna learn everything about everything.
-I'm currently learning web development.
